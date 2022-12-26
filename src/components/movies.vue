@@ -1,4 +1,5 @@
 <template>
+  <p class="lead">Showing {{ movies.length }} movies.</p>
   <table class="table table-striped">
     <thead>
       <tr>
